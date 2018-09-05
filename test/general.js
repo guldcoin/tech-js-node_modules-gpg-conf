@@ -1,6 +1,6 @@
 /* global describe:false it:false */
 const assert = require('chai').assert
-const { expandConfig, flattenConfig } = require('./index.js')
+const { expandConfig, flattenConfig } = require('../index.js')
 const pify = require('pify')
 const path = require('path')
 const fs = pify(require('fs'))
