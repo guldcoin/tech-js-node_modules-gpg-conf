@@ -1,7 +1,7 @@
 {
   "name": "gpg-conf",
   "main": "./index.js",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "description": "GPG configuration manager.",
   "repository": "https://bitbucket.org/guld/tech-js-node_modules-gpg-conf",
   "author": "isysd <public@iramiller.com>",
